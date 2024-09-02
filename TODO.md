@@ -1,32 +1,22 @@
-# To Do
+# TO DO for v2
 
-## Documentation
-
-Top-level module documentation & function docs
-
-- [x] Utils
-  - [x] crypt.rs
-  - [x] error.rs
-  - [x] files.rs
-  - [x] input.rs
-  - [x] math.rs
-  - [x] messages.rs
-  - [x] terminal.rs
-  - [x] tui.rs
-- [ ] Combat
-  - [x] battle.rs
-  - [ ] enemy.rs
-  - [ ] inventory.rs
-- [ ] Data
-  - [ ] Inventory
-    - [ ] armor.rs
-    - [ ] bank.rs
-    - [ ] equipment.rs
-    - [ ] items.rs
-    - [ ] weapons.rs
-  - [ ] achievements.rs
-  - [ ] guilds.rs
-  - [ ] health.rs
-  - [x] player.rs
-  - [ ] settings.rs
-  - [ ] xp.rs
+- [ ] Stat Blocks
+  - [ ] Hit Dice/HP
+  - [ ] STR/CON/CHA stats (PC only, 3d6 rolled at character creation)
+  - [ ] Armor Class
+  - [ ] Weapon w/ Bonus to hit
+  - [ ] Weapon damage roll
+  - [ ] Morale
+- [ ] Bestiary & Monster Statistics
+- [ ] Player Redo w/ Stat Block
+  - [ ] Player can choose a mundane background (baker, soldier, cobbler, etc.)
+  - [ ] Must have rations in inventory or else suffer HP loss, rather than heal via food in battle
+- [ ] Stronghold becomes Dungeon Crawl w/ Options:
+  - [ ] Delve Deeper - Random chance for monster encounter, trap, treasure, or empty room. Traps escaped 25% of the time, chance higher if you have dungoneer's tools (50%).
+  - [ ] Ascend - Leave the dungeon and go back to main menu.
+  - [ ] Heal - Use healing potions if any are in inventory.
+  - [ ] Eat Ration
+- [ ] Redo Combat
+  - [ ] Reaction rolls from monsters & Morale
+  - [ ] Armor Classes & Weapon Bonuses
+  - [ ] Weapons deal variable damage
