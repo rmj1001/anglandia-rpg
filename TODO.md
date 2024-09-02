@@ -8,6 +8,8 @@
   - [ ] Weapon damage roll
   - [ ] Morale
 - [ ] Bestiary & Monster Statistics
+  - [ ] Bestiary stored in CSV format
+  - [ ] Sorted by hit dice, then name
 - [ ] Player Redo w/ Stat Block
   - [ ] Player can choose a mundane background (baker, soldier, cobbler, etc.)
   - [ ] Must have rations in inventory or else suffer HP loss, rather than heal via food in battle
@@ -20,3 +22,4 @@
   - [ ] Reaction rolls from monsters & Morale
   - [ ] Armor Classes & Weapon Bonuses
   - [ ] Weapons deal variable damage
+  - [ ] Encounters are randomized based on player level (level -> Monster HD)
