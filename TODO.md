@@ -2,7 +2,7 @@
 
 - [ ] Stat Blocks
   - [ ] Hit Dice/HP
-  - [ ] STR/CON/CHA stats (PC only, 3d6 rolled at character creation)
+  - [ ] STR/DEX/CON/CHA stats (PC only, 3d6 rolled at character creation. Ability checks roll under w/ 1d20)
   - [ ] Armor Class
   - [ ] Weapon w/ Bonus to hit
   - [ ] Weapon damage roll
@@ -12,7 +12,7 @@
   - [ ] Player can choose a mundane background (baker, soldier, cobbler, etc.)
   - [ ] Must have rations in inventory or else suffer HP loss, rather than heal via food in battle
 - [ ] Stronghold becomes Dungeon Crawl w/ Options:
-  - [ ] Delve Deeper - Random chance for monster encounter, trap, treasure, or empty room. Traps escaped 25% of the time, chance higher if you have dungoneer's tools (50%).
+  - [ ] Delve Deeper - Random chance for monster encounter, trap, treasure, or empty room. Escaping traps use DEX check. Dungeoneer tools add bonus to DEX stat.
   - [ ] Ascend - Leave the dungeon and go back to main menu.
   - [ ] Heal - Use healing potions if any are in inventory.
   - [ ] Eat Ration
