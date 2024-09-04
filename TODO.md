@@ -4,17 +4,35 @@
   - [ ] Hit Dice/HP
   - [ ] STR/DEX/CON/CHA stats (PC only, 3d6 rolled at character creation. Ability checks roll under w/ 1d20)
   - [ ] Armor Class
-  - [ ] Weapon w/ Bonus to hit
-  - [ ] Weapon damage roll
-  - [ ] Morale
+  - [ ] Weapon Bonus
+  - [ ] Weapon Name
+  - [ ] Morale (Monsters Only)
 - [ ] Bestiary & Monster Statistics
-  - [ ] Bestiary stored in CSV format
+  - [ ] CSV Format
   - [ ] Sorted by hit dice, then name
-- [ ] Player Redo w/ Stat Block
-  - [ ] Player can choose a mundane background (baker, soldier, cobbler, etc.)
-  - [ ] Must have rations in inventory or else suffer HP loss, rather than heal via food in battle
+  - [ ] Goal: 100 monsters spread across 8 hit dice.
+- [ ] Redo player data
+  - [ ] Mundane Background chosen @ creation (Baker, Cobbler, etc)
+  - [ ] Inventory (All will be found in treasure hordes with exception of Rations, can be sold/bought in shop.)
+    - [ ] Gems
+    - [ ] Jewelry
+    - [ ] Rations
+    - [ ] Fur
+    - [ ] Scrolls
+    - [ ] Books
+    - [ ] Bones
+    - [ ] Hides
+    - [ ] Horns
+    - [ ] **MORE TBD**
+  - [ ] Equipment
+    - [ ] Armor - AC Bonus
+    - [ ] Weapons - Attack Bonus (base 1d6)
+    - [ ] Trap Detecter - DEX Bonus
 - [ ] Stronghold becomes Dungeon Crawl w/ Options:
-  - [ ] Delve Deeper - Random chance for monster encounter, trap, treasure, or empty room. Escaping traps use DEX check. Dungeoneer tools add bonus to DEX stat.
+  - [ ] Delve Deeper - Random chance for monster encounter, trap, treasure, or empty room.
+    - Monster: HD = PC Level.
+    - Traps: DEX check for escaping trap. Failure results in HP loss. Success results in XP gain.
+    - Treasure: Random generate XP, Gems, Jewelry.
   - [ ] Ascend - Leave the dungeon and go back to main menu.
   - [ ] Heal - Use healing potions if any are in inventory.
   - [ ] Eat Ration
@@ -23,3 +41,12 @@
   - [ ] Armor Classes & Weapon Bonuses
   - [ ] Weapons deal variable damage
   - [ ] Encounters are randomized based on player level (level -> Monster HD)
+- [ ] Skill Training - Spend Gold & Levels to Improve Ability Scores
+- [ ] Game Goals
+  - [ ] Nobility Ranks
+    - [ ] Baron
+    - [ ] Count
+    - [ ] Earl
+    - [ ] Duke
+    - [ ] King (Requires the Stronghold Built)
+  - [ ] Building a Stronghold
